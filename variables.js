@@ -9,7 +9,7 @@ console.log(`my age is  , ${myAge}" ,
 
 
 
-hello`);
+// hello`);
 
 // console.log('My name is Ariole');
 // console.log("My name is Ariole");
